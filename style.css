@@ -234,7 +234,7 @@ header {
     justify-content: center;
     gap: 20px;
     padding: 50px 20px;
-    background-image: url('./assets/COPYTEST.jpg');
+    background-image: url("./assets/COPYTEST.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -675,7 +675,7 @@ header {
 
 /* Browse */
 .container__1{
-    background-image: url('./assets/fundo_services.jpg');
+    background-image: url("./assets/fundo_services.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
