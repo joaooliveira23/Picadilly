@@ -18,8 +18,4 @@ Este é um projeto de um site para a barbearia *Picadilly Barber*, desenvolvido 
 - **CSS3**: Estilização e layout do site.
 - **JavaScript**: Funcionalidades interativas, como o menu responsivo e a submissão do formulário de contato.
 
-## Como Usar
 
-1. Clone este repositório em sua máquina local:
-   ```bash
-   git clone https://github.com/seu-usuario/picadilly-barber.git
